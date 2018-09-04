@@ -1224,7 +1224,7 @@
     "core.downloading": "下载中",
     "core.edit": "编辑",
     "core.emptysplit": "如果侧面板为空或正在加载，此页面将显示为空白。",
-    "core.error": "发生了错误",
+    "core.error": "错误",
     "core.errordeletefile": "删除文件时出错。 请再试一次。",
     "core.errordownloading": "下载文件时出错。",
     "core.errordownloadingsomefiles": "下载模块文件时出错。 某些文件可能会丢失。",
